@@ -10,3 +10,10 @@
 ## And the chat application would be running successfully by now.
 
 # Pictures
+
+![App Screenshot](https://raw.githubusercontent.com/aniket162002/chat-app/picture-assets/Screenshot%20(129).png)
+![App Screenshot](https://raw.githubusercontent.com/aniket162002/chat-app/picture-assets/Screenshot%20(130).png)
+![App Screenshot](https://raw.githubusercontent.com/aniket162002/chat-app/picture-assets/Screenshot%20(131).png)
+![App Screenshot](https://raw.githubusercontent.com/aniket162002/chat-app/picture-assets/Screenshot%20(132).png)
+![App Screenshot](https://raw.githubusercontent.com/aniket162002/chat-app/picture-assets/Screenshot%20(133).png)
+![App Screenshot](https://raw.githubusercontent.com/aniket162002/chat-app/picture-assets/Screenshot%20(134).png)
